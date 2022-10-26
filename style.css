@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+}
+#speed_img,#vol_img{
+    width: 150px;
+    border-radius: 50%;
+}
+.speed_div{
+    float:left;
+}
+#volume, #speed
+{
+    width: 150px;
+   
+}
+.volume_div{
+    float:right;
+}
